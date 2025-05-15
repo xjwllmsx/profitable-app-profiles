@@ -25,7 +25,7 @@ profitable-app-profiles/
 The datasets used in this project are publicly available on Kaggle:
 
 -   **[Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps):** A dataset containing data about approximately ten thousand Android apps from Google Play. The dataset can be downloaded directly from [this link](https://dq-content.s3.amazonaws.com/350/googleplaystore.csv).
--   **[Mobile App Store](https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps):** A dataset containing data about approximately seven thousand iOS apps from the App Store. The dataset can be downloaded directly from [this link](https://dq-content.s3.amazonaws.com/350/AppleStore.csv).\*\*
+-   **[Mobile App Store](https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps):** A dataset containing data about approximately seven thousand iOS apps from the App Store. The dataset can be downloaded directly from [this link](https://dq-content.s3.amazonaws.com/350/AppleStore.csv).
 
 The CSV files used for analysis are stored in the `data/` directory for reproducibility.
 

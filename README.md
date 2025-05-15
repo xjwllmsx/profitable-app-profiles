@@ -4,6 +4,21 @@ In this project, I am working as a data analyst for a company that develops free
 
 By analyzing mobile app data, I aim to uncover insights into which types of apps attract the most users and drive higher engagement. The goal is to provide the developers with data-driven recommendations on the kinds of apps that are likely to achieve stronger user engagement. By identifying key characteristics of popular apps, the company can better align its development efforts with market demand and increase revenue through more effective ad exposure.
 
+## Tech Stack
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" width="40" height="40" />&nbsp;
+</div>
+
+## Contents
+
+-   [Project Structure](#project-structure)
+-   [Dataset](#dataset)
+-   [Try it Online](#try-it-online)
+-   [Steps to Run](#steps-to-run)
+-   [License](#license)
+
 ## Project Structure
 
 ```
@@ -29,7 +44,13 @@ The datasets used in this project are publicly available on Kaggle:
 
 The CSV files used for analysis are stored in the `data/` directory for reproducibility.
 
-## Getting Started
+## Try it Online
+
+You can run the notebook directly in your browser via Binder:
+
+[![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xjwllmsx/profitable-app-profiles/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebook%2Fanalysis.ipynb)
+
+## Steps to Run
 
 To run this project locally:
 
@@ -52,12 +73,6 @@ To run this project locally:
     jupyter notebook notebook/analysis.ipynb
     ```
     **NOTE:** If you're using `uv`, the dependencies are managed via `pyproject.toml` rather than `requirements.txt`.
-
-## Try it Online
-
-You can run the notebook directly in your browser via Binder:
-
-[![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xjwllmsx/profitable-app-profiles/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebook%2Fanalysis.ipynb)
 
 ## License
 

@@ -1,13 +1,14 @@
 # Profitable App Profiles
 
-In this project, I am working as a data analyst for a company that develops free-to-download mobile apps available on both Google Play and the App Store. The company's primary revenue stream comes from in-app advertisements, making user engagement a critical factor for financial success.
+This project presents a data-driven analysis of the Google Play Store and Apple App Store to identify promising profiles for new, free-to-download mobile applications. It addresses the needs of a company whose revenue is primarily generated through in-app advertisements, making high user engagement critical for financial success.
 
-By analyzing mobile app data, I aim to uncover insights into which types of apps attract the most users and drive higher engagement. The goal is to provide the developers with data-driven recommendations on the kinds of apps that are likely to achieve stronger user engagement. By identifying key characteristics of popular apps, the company can better align its development efforts with market demand and increase revenue through more effective ad exposure.
+By examining trends and characteristics of prevalent and engaging apps, this analysis aims to deliver actionable recommendations to development teams. The goal is to help align new app development with market demand, thereby enhancing user acquisition and revenue potential.
 
 ## Tech Stack
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" width="40" height="40" />&nbsp;
 </div>
 
